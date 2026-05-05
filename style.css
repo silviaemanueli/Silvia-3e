@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(23, 138, 48); 
+    color:rgb(207, 236, 103);
+    text-align:center;
+} 
+h2{
+    background-color: #02460b44;
+    color: yellow;
+}
+#imagem-rj{
+    width: 50%;
+}
